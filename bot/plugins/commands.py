@@ -21,8 +21,8 @@ async def start_command(_, msg: Message):
                     InlineKeyboardButton(text='⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'https://telegram.me/{Telegram.BOT_USERNAME}?startgroup=botstart')
                 ],
                 [
-                    InlineKeyboardButton(text='• ᴜᴩᴅᴀᴛᴇꜱ •', url='https://telegram.me/ANKIT_SHAKYA73'),
-                    InlineKeyboardButton(text='• ꜱᴜᴩᴩᴏʀᴛ •', url='https://telegram.me/ANKIT_SHAKYA72')
+                    InlineKeyboardButton(text='• ᴜᴩᴅᴀᴛᴇꜱ •', url='https://t.me/Maisamyahu'),
+                    InlineKeyboardButton(text='• ꜱᴜᴩᴩᴏʀᴛ •', url='https://t.me/Maisamyahu')
                 ],
                 [
                     InlineKeyboardButton(text='⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ⇆', url=f'https://telegram.me/{Telegram.BOT_USERNAME}?startchannel=botstart')
@@ -45,8 +45,8 @@ async def send_emojis(_, msg: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text='👨‍💻 ᴏᴡɴᴇʀ', url='https://telegram.me/ANKIT_SHAKYA72'),
-                    InlineKeyboardButton(text='💥 ʀᴇᴘᴏ', url='https://telegram.me/ANKIT_SHAKYA_OFFICIAL')
+                    InlineKeyboardButton(text='👨‍💻 ᴏᴡɴᴇʀ', url='https://t.me/Maisamyahu'),
+                    InlineKeyboardButton(text='💥 ʀᴇᴘᴏ', url='https://t.me/Medicoarmy')
                 ]
             ]
         )
